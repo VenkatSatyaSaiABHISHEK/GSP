@@ -1,3 +1,20 @@
 @import './fonts.css';
 @import './tailwind.css';
 @import './theme.css';
+
+.hero-title,
+.hero-text,
+.hero-description {
+	max-width: 900px;
+	line-height: 1.6;
+	text-align: center;
+}
+
+@media (max-width: 768px) {
+	.hero-title,
+	.hero-text,
+	.hero-description {
+		max-width: 92vw;
+		line-height: 1.55;
+	}
+}
