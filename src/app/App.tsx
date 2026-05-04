@@ -574,7 +574,7 @@ export default function App() {
                   className="relative w-36 h-36 lg:w-48 lg:h-48 rounded-full overflow-hidden border-4 border-white shadow-2xl"
                 >
                   <img 
-                    src="https://media.licdn.com/dms/image/v2/D5635AQGgFhcguXmaCg/profile-framedphoto-shrink_200_200/B56ZkinJzPJoAY-/0/1757222313529?e=1776844800&v=beta&t=shGlfF1ZN6wkp9SM-SmQRWDm3sMRcRXT3_542-PMrfA"
+                    src="https://media.licdn.com/dms/image/v2/D5635AQGgFhcguXmaCg/profile-framedphoto-shrink_800_800/B56ZkinJzPJoAg-/0/1757222313529?e=1778461200&v=beta&t=qH-zVw15CT0d1u0Itv477eBnLCM-OOGLmEStcjotYxc"
                     alt="Profile"
                     className="w-full h-full object-cover"
                   />
